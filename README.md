@@ -61,3 +61,47 @@ previas.
 + Entrega rápida y flexible:
 1. Opciones adaptadas a tu estilo de vida: recoge en tienda o solicita
 envío.
+
+## Características Clave
+1. Seguimiento en tiempo real:
++ Observa cada etapa de tu pedido desde la recolección hasta la entrega.
+2. Sistema de recolectores optimizado:
++ Asignación automática del recolector más cercano y eficiente.
+3. Integración con servicios logísticos externos:
++ Asociaciones con plataformas de entrega para un alcance mayor.
+4. Recompensas por uso frecuente:
++ Acumula puntos con cada compra y cámbialos por descuentos
+exclusivos.
+
+## Nuestro Mercado Meta
++ Jóvenes y adultos tecnológicos:
+o Amantes de la innovación, buscan soluciones modernas y eficientes.
++ Clientes con agendas ocupadas:
+o Valoran la conveniencia y el ahorro de tiempo.
++ Consumidores urbanos:
+o Prefieren alternativas que les permitan evitar las filas y agilizar su rutina
+diaria.
+
+ ## Diferenciadores Clave
+1. Tecnología avanzada:
++ Desempeño óptimo, incluso en horas pico.
+2. Colaboraciones estratégicas:
++ Promociones únicas con negocios locales y cadenas reconocidas.
+3. Sostenibilidad:
++ Promoción de empaques reutilizables y recibos digitales para reducir el
+impacto ambiental.
+
+## Proyección a Futuro
++### Expansión de servicios:
+o Implementar colaboraciones con cadenas comerciales para llegar a
+más clientes.
++### Mejoras continuas:
+o Utilizar el feedback de los usuarios para perfeccionar cada detalle.
++### Adopción masiva:
+o Convertirse en el estándar de compras sin filas y con entrega
+personalizada.
+
+## Cristian Llanes  😁
+https://github.com/LlanesGood
+## Guillermo Aguilar 🙂 
+https://github.com/Gu1ll3rmo
