@@ -1,9 +1,7 @@
 
-# Point Express General  
-
- ### Poin Express 🌍
+# Point Express General  🌍
  
- ### Proyecto Integrador
+ ## Proyecto Integrador
 
  # ¿Que es Point Express?
 
