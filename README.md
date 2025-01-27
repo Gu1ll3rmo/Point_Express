@@ -6,7 +6,7 @@
  Revolucionar las compras haciendo que sean rápidas, convenientes
 y sin filas, ofreciendo una experiencia única de compra y entrega.
 
- ¿Que es Point Express?
+ ## ¿Que es Point Express?
 
   + Compra sin filas: Evita largas esperas y disfruta de una experiencia de compra
    fluida y eficiente.
