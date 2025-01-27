@@ -56,8 +56,8 @@ Un sistema innovador y eficiente:
 2. Paga fácilmente desde la app.
 3. Recíbelos donde prefieras.
 + Experiencia personalizada:
-+ Recomendaciones inteligentes basadas en tus preferencias y compras
+1. Recomendaciones inteligentes basadas en tus preferencias y compras
 previas.
 + Entrega rápida y flexible:
-+ Opciones adaptadas a tu estilo de vida: recoge en tienda o solicita
+1. Opciones adaptadas a tu estilo de vida: recoge en tienda o solicita
 envío.
