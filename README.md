@@ -17,7 +17,7 @@ y sin filas, ofreciendo una experiencia única de compra y entrega.
   + Entrega flexible: Escoge entre recoger en tienda o recibir tu pedido
    directamente en tu domicilio.
 
-  # La Problemática
+  ## La Problemática
    
 Los clientes y usuarios actuales enfrentan las siguientes dificultades:
 
@@ -35,3 +35,15 @@ PointExpress soluciona estos problemas al ofrecer una app que permite realizar
 compras desde tu teléfono. Nuestro equipo se encarga de recolectar el pedido y
 entregarlo directamente a tu domicilio, haciendo la experiencia más cómoda, rápida
 y eficiente.
+
+## Objetivos de PointExpress
+
+1. Reducir tiempos de espera:
++ Optimizar la experiencia de compra con un sistema de recolección
+eficiente.
+2. Mejorar la satisfacción del cliente:
++ Personalizar cada experiencia para ajustarse a las necesidades de los
+usuarios.
+3. Implementar tecnología robusta:
++ Garantizar procesos confiables y rápidos, incluso en momentos de alta
+demanda.
