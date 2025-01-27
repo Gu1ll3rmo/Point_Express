@@ -4,7 +4,8 @@
  ### Poin Express 🌍
  #### Proyecto Integrador
 
- #¿Que es Point Express?
+ ## ¿Que es Point Express?
+
   • Compra sin filas: Evita largas esperas y disfruta de una experiencia de compra
    fluida y eficiente.
  • Asistencia personalizada: Nuestro equipo recolecta tu pedido mientras tú te
