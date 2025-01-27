@@ -17,7 +17,7 @@ y sin filas, ofreciendo una experiencia única de compra y entrega.
   • Entrega flexible: Escoge entre recoger en tienda o recibir tu pedido
    directamente en tu domicilio.
 
-   La Problemática
+  # La Problemática
    
 Los clientes y usuarios actuales enfrentan las siguientes dificultades:
 
