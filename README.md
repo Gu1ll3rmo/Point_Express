@@ -47,3 +47,17 @@ usuarios.
 3. Implementar tecnología robusta:
 + Garantizar procesos confiables y rápidos, incluso en momentos de alta
 demanda.
+
+## Propuesta de Valor
+
+Un sistema innovador y eficiente:
++ Simples pasos para comprar:
+1. Escanea los productos que deseas.
+2. Paga fácilmente desde la app.
+3. Recíbelos donde prefieras.
++ Experiencia personalizada:
++ Recomendaciones inteligentes basadas en tus preferencias y compras
+previas.
++ Entrega rápida y flexible:
++ Opciones adaptadas a tu estilo de vida: recoge en tienda o solicita
+envío.
